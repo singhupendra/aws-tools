@@ -1,2 +1,2 @@
 # aws-tools
-Contains aws tools to manage aws tasks
+Contains tools to manage aws tasks
